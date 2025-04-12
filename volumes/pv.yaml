@@ -8,4 +8,4 @@ spec:
   accessModes:
     - ReadWriteOnce
   hostPath:
-    path: "/mnt/c/Users/TuUsuario/Desktop/static-website"  # CAMBIAR por tu ruta local
+    path: "/mnt/c/Users/WIN10/Desktop/ArchivosCloud/static-website"
